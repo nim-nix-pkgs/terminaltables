@@ -9,7 +9,7 @@
   
   inputs.src-terminaltables-master.flake = false;
   inputs.src-terminaltables-master.owner = "xmonader";
-  inputs.src-terminaltables-master.ref   = "refs/heads/master";
+  inputs.src-terminaltables-master.ref   = "master";
   inputs.src-terminaltables-master.repo  = "nim-terminaltables";
   inputs.src-terminaltables-master.type  = "github";
   
