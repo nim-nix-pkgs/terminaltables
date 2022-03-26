@@ -11,6 +11,7 @@
   inputs.src-terminaltables-master.ref   = "refs/heads/master";
   inputs.src-terminaltables-master.owner = "xmonader";
   inputs.src-terminaltables-master.repo  = "nim-terminaltables";
+  inputs.src-terminaltables-master.dir   = "";
   inputs.src-terminaltables-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
