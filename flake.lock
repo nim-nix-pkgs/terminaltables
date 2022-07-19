@@ -69,11 +69,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658018312,
-        "narHash": "sha256-2gF+EjeaTtRIL4DVJBqtYn+DVLn4gbxWYB1+3TKBzqU=",
+        "lastModified": 1658032269,
+        "narHash": "sha256-Vc9u648XOhEXk105n7levAo6TDLwo0pdBgcQo6ixJrg=",
         "owner": "nim-nix-pkgs",
         "repo": "terminaltables",
-        "rev": "256fdf1e4a14906eb6f15b16f3f27e58027f421b",
+        "rev": "23d0b55da4498aaf90a6f733509050505f2d2ac2",
         "type": "github"
       },
       "original": {
